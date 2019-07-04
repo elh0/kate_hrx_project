@@ -9,7 +9,6 @@
 * When we click next on keyboard: we go next...
 * When we click prev on keyboard: we go previous...
 
-### View Site
+### [View Site](https://elh0.github.io/kate_hrx_project/)
 
-* [CodePen](https://codepen.io/)
 
