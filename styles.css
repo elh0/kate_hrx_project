@@ -17,6 +17,10 @@ body {
   transition: background-color 0.5s;
 }
 
+section a {
+  color: #000000;
+}
+
 h1 {
   font-size: 24px;
   margin: 10px;
@@ -58,4 +62,5 @@ footer {
 
 footer img {
   margin: 0 10px 0 10px;
+  cursor: pointer;
 }
