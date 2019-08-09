@@ -1,5 +1,4 @@
 # Kate Hrx Resume
-<<<<<<< HEAD
 
 ## Features
 
@@ -24,7 +23,6 @@
 * update section
 
 ### [View Site](https://elh0.github.io/kate_hrx_project/)
-=======
 
 ## Features
 
@@ -36,6 +34,3 @@
 * When we click prev on keyboard: we go previous...
 
 ### [View Site](https://elh0.github.io/kate_hrx_project/)
-
-
->>>>>>> 57d5cbd0cb19a6421fd78181c90b9285cb53f7fa
