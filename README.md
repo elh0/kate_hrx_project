@@ -1,5 +1,10 @@
 # Kate Hrx Resume
 
+### [View Site](https://elh0.github.io/mock_resume/)
+
+## Info
+Mock resume site with slide and random functionality.
+
 ## Features
 
 * When we click next arrow: we go next...
@@ -22,8 +27,6 @@
 * random
 * update section
 
-### [View Site](https://elh0.github.io/mock_resume/)
-
 ## Features
 
 * When we click next arrow: we go next...
@@ -32,5 +35,3 @@
 
 * When we click next on keyboard: we go next...
 * When we click prev on keyboard: we go previous...
-
-### [View Site](https://elh0.github.io/mock_resume/)
