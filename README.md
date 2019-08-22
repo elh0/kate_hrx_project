@@ -22,7 +22,7 @@
 * random
 * update section
 
-### [View Site](https://elh0.github.io/kate_hrx_project/)
+### [View Site](https://elh0.github.io/mock_resume/)
 
 ## Features
 
@@ -33,4 +33,4 @@
 * When we click next on keyboard: we go next...
 * When we click prev on keyboard: we go previous...
 
-### [View Site](https://elh0.github.io/kate_hrx_project/)
+### [View Site](https://elh0.github.io/mock_resume/)
